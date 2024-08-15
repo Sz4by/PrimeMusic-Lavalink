@@ -18,9 +18,9 @@ module.exports = {
   nodes: [
     {
         name: "Node #1",
-        host: "lavalinkv4.serenetia.com",
+        host: "v3.lavalink.rocks",
         port: 443,
-        password: "https://dsc.gg/ajidevserver",
+        password: "horizxon.tech",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: true
