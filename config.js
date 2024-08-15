@@ -24,14 +24,6 @@ module.exports = {
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: true     
-      {
-        name: "Node #2",
-        host: "https://dsc.gg/ajidevserver",
-        port: 443,
-        password: "horizxon.tech",
-        reconnectTimeout: 5000,
-        reconnectTries: Infinity,
-        secure: true
      },
  ]
 }
