@@ -25,13 +25,6 @@ module.exports = {
         reconnectTries: Infinity,
         secure: true
     {
-        name: "Node #2",
-        host: "lava-v3.ajieblogs.eu.org",
-        port: 443,
-        password: "https://dsc.gg/ajidevserver",
-        reconnectTimeout: 5000,
-        reconnectTries: Infinity,
-        secure: true
     },
  ]
 }
