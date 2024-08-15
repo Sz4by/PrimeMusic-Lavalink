@@ -1,7 +1,7 @@
 const status = "AUTOMATIC";
 const botName = "💎 PRIME MUSIC";
 const Text = "Szaby";
-const version = "Latest@ v1.0"; 
+const version = "Latest@ v4.0"; 
 const startTime = Date.now();
 
 function printWatermark() {
