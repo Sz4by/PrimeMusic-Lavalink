@@ -11,7 +11,7 @@ module.exports = {
   CheckmarkIcon: "https://cdn.discordapp.com/attachments/1230824451990622299/1230836684774576168/7762-verified-blue.gif",
   MusicIcon:"https://media.discordapp.net/attachments/1230824451990622299/1236664581364125787/music-play.gif",
   embedTimeout: 5,  // Timeout before the button interaction embeds are deleted ( Default - 5 seconds)
-  errorLog: "https://discord.com/api/webhooks/1273649793159266437/qpaivXVbftOsQcDyHhzM-gM75QMWbt1aaOzlpB_9cDIIfNIoPxmvnipOu-MQEzNRFRq9", 
+  errorLog: "1273649444046245888", 
 
    // Lavalink Server Details
 
