@@ -18,7 +18,7 @@ module.exports = {
               url: 'https://discord.com/invite/RwsFau5YSu'
           })
             .setDescription(`➡️ **Join our Discord server for support and updates:**\n- Discord - ${supportServerLink}\n\n➡️ **Follow us on:**\n- YouTube - ${youtubeLink}`)
-            .setImage('https://cdn.discordapp.com/attachments/1113800537402527903/1236803979996958740/11.png?ex=663956f7&is=66380577&hm=3b3c19a11adcb979517a133f2907f671305d23f1f5092cf7df043e6d5cab07bc&')
+            .setImage('https://cdn.discordapp.com/attachments/1158023873057525850/1273546368916521089/1000011120-ezgif.com-resize.jpg?ex=66bf01fb&is=66bdb07b&hm=ea8b931afbf72943021c0de3e8f1047b40e6f59e8e8332f1375c0c57c8f03dc0&')
             .setTimestamp();
 
       return interaction.reply({ embeds: [embed] });
