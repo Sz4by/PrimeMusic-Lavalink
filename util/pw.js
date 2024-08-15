@@ -1,5 +1,5 @@
 const status = "AUTOMATIC";
-const botName = "💎 PRIME MUSIC";
+const botName = "💎 Szaby Music";
 const Text = "Szaby";
 const version = "Latest@ v4.0"; 
 const startTime = Date.now();
