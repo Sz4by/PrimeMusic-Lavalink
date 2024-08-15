@@ -24,7 +24,6 @@ module.exports = {
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: true
-    {
     },
  ]
 }
