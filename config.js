@@ -18,12 +18,12 @@ module.exports = {
   nodes: [
     {
         name: "Node #1",
-        host: "lavalink3.theelf.tech",
-        port: 12634,
-        password: "discord.gg/PqVQgXTweC",
+        host: "lavalink.akshtt.is-a.dev",
+        port: 443,
+        password: "admin",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
-        secure: false     
+        secure: true     
      },
  ]
 }
