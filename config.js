@@ -18,12 +18,12 @@ module.exports = {
   nodes: [
     {
         name: "Node #1",
-        host: "lt31.space-hosting.net",
-        port: 2561,
-        password: "yoasobi-kun",
+        host: "v4.lavalink.rocks",
+        port: 443,
+        password: "horizxon.tech",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
-        secure: false     
+        secure: true     
      },
  ]
 }
