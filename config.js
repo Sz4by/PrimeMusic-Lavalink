@@ -19,7 +19,7 @@ module.exports = {
     {
         name: "Node #1",
         host: "lavalink3.theelf.tech",
-        port: 1234,
+        port: 12634,
         password: "discord.gg/PqVQgXTweC",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
