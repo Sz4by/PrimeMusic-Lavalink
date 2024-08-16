@@ -18,12 +18,12 @@ module.exports = {
   nodes: [
     {
         name: "Node #1",
-        host: "v3.lavalink.rocks",
-        port: 443,
-        password: "horizxon.tech",
+        host: "lavalink3.theelf.tech",
+        port: 12345,
+        password: "https://dsc.gg/elfmusic",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
-        secure: true     
+        secure: false     
      },
  ]
 }
