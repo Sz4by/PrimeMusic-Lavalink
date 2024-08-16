@@ -19,7 +19,7 @@ module.exports = {
     {
         name: "Node #1",
         host: "lavalink3.theelf.tech",
-        port: 12345,
+        port: 1234,
         password: "https://dsc.gg/elfmusic",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
